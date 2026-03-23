@@ -1,0 +1,4 @@
+.container {
+  width: min(calc(100% - 32px), var(--container));
+  margin: 0 auto;
+}

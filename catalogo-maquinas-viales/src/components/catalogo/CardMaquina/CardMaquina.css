@@ -1,0 +1,80 @@
+.card-maquina {
+  overflow: hidden;
+  border-radius: 26px;
+  background: linear-gradient(180deg, rgba(23,28,34,0.96), rgba(15,19,24,0.96));
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow);
+}
+
+.card-maquina__media {
+  position: relative;
+  aspect-ratio: 16 / 11;
+  overflow: hidden;
+  background: #0f1318;
+}
+
+.card-maquina__media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-maquina__type {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  font-size: 0.82rem;
+  background: rgba(11, 13, 16, 0.78);
+  border: 1px solid rgba(255,255,255,0.08);
+}
+
+.card-maquina__body {
+  padding: 20px;
+  display: grid;
+  gap: 18px;
+}
+
+.card-maquina__heading p,
+.card-maquina__meta span {
+  margin: 0;
+  color: var(--text-soft);
+}
+
+.card-maquina__heading h3 {
+  margin: 8px 0 0;
+  font-size: 1.3rem;
+  line-height: 1.1;
+}
+
+.card-maquina__meta {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 12px;
+}
+
+.card-maquina__meta li {
+  border-radius: 16px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  padding: 12px;
+}
+
+.card-maquina__meta strong {
+  display: block;
+  margin-top: 6px;
+}
+
+.card-maquina button {
+  min-height: 52px;
+  border-radius: 16px;
+  border: 1px solid rgba(243, 139, 31, 0.22);
+  background: linear-gradient(180deg, rgba(243, 139, 31, 0.22), rgba(243, 139, 31, 0.12));
+  color: var(--text);
+  font-weight: 700;
+  cursor: pointer;
+}
