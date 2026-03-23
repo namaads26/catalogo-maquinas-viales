@@ -7,7 +7,7 @@ function CardMaquina({ maquina, onOpen }) {
   return (
     <article className="card-maquina">
       <div className="card-maquina__media">
-        <img src={`/src/assets/images/${portada}`} alt={maquina.nombre} />
+        <img src={`${import.meta.env.BASE_URL}images/${portada}`} alt={maquina.nombre} />
         <span className="card-maquina__type">{maquina.tipo}</span>
       </div>
 
