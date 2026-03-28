@@ -39,7 +39,7 @@ function ModalMaquina({ maquina, onClose }) {
             <div className="modal-maquina__header">
               <p>{maquina.marca} · {maquina.tipo}</p>
               <h2>{maquina.nombre}</h2>
-              <span>{maquina.descripcion}</span>
+              
             </div>
 
             <FichaTecnica fichaTecnica={maquina.fichaTecnica} />

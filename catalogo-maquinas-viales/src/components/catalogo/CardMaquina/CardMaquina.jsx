@@ -3,11 +3,23 @@ import './CardMaquina.css';
 
 function CardMaquina({ maquina, onOpen }) {
   const portada = maquina.imagenes?.[0] || crearPlaceholder(maquina.nombre);
+  const logoMarca =  maquina.logo?.[0] || crearPlaceholder(maquina.nombre);
 
   return (
     <article className="card-maquina">
+
+     
+      <img
+        className="card-maquina__corner-logo"
+        src={`${import.meta.env.BASE_URL}logos/${logoMarca}`}
+        alt="logo"
+      />
+
       <div className="card-maquina__media">
-        <img src={`${import.meta.env.BASE_URL}images/${portada}`} alt={maquina.nombre} />
+        <img
+          src={`${import.meta.env.BASE_URL}images/${portada}`}
+          alt={maquina.nombre}
+        />
         <span className="card-maquina__type">{maquina.tipo}</span>
       </div>
 
@@ -23,8 +35,8 @@ function CardMaquina({ maquina, onOpen }) {
             <strong>{maquina.modelo}</strong>
           </li>
           <li>
-            <span>Año</span>
-            <strong>{maquina.anio}</strong>
+            <span>MOTOR</span>
+            <strong>{maquina.motor}</strong>
           </li>
         </ul>
 

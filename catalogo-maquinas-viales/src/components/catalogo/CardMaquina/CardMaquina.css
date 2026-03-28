@@ -5,7 +5,25 @@
   border: 1px solid var(--border);
   box-shadow: var(--shadow);
 }
+.card-maquina {
+  position: relative;
+  overflow: hidden;
+}
 
+.card-maquina__corner-logo {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  width: 42px;
+  height: 42px;
+  object-fit: contain;
+  z-index: 5;
+
+  /* estilo PRO */
+  opacity: 0.15;
+  filter: grayscale(100%) contrast(1.2);
+  pointer-events: none;
+}
 .card-maquina__media {
   position: relative;
   aspect-ratio: 16 / 11;

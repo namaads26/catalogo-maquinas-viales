@@ -15,7 +15,7 @@ function Footer() {
 
         <div className="footer__contact">
           <span>Contacto</span>
-          <a href="https://wa.me/5490000000000" target="_blank" rel="noreferrer">
+          <a href="https://wa.me/543574415329" target="_blank" rel="noreferrer">
             WhatsApp comercial
           </a>
         </div>

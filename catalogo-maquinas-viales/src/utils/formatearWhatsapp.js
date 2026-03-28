@@ -1,3 +1,3 @@
-export function formatearWhatsapp(texto, numero = '5490000000000') {
+export function formatearWhatsapp(texto, numero = '+543574415329') {
   return `https://wa.me/${numero}?text=${encodeURIComponent(texto)}`;
 }
