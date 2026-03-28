@@ -27,7 +27,7 @@ function App() {
       <Header />
 
       <main>
-        <HeroCatalogo total={maquinas.length} />
+        <HeroCatalogo  />
 
         <section className="catalogo-panel" id="catalogo">
           <div className="catalogo-panel__top">

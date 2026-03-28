@@ -29,105 +29,38 @@
       "Equipamiento":"Acople hid- 3er Via hidr- Aire Acond- Cam marcha atras- Comando c/Joistyck- Corta Corriente"
     },
     "destacado": true,
-    "whatsappTexto": "Hola, quiero consultar por la Excavadora Hyundai 220LC-9."
+    "whatsappTexto": "Hola, quiero consultar por la Excavadora Z930D."
   },
   {
-    "id": 2,
-    "nombre": "Motoniveladora Caterpillar 120K",
-    "marca": "Caterpillar",
-    "modelo": "120K",
-    "tipo": "Motoniveladora",
-    "anio": 2016,
-    "descripcion": "Ideal para nivelación, perfilado y mantenimiento de caminos, con excelente maniobrabilidad y desempeño sostenido.",
-    "imagenes": [
-      "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "fichaTecnica": {
-      "Peso operativo": "14.500 kg",
-      "Potencia": "145 hp",
-      "Capacidad": "Hoja de 3,7 m",
-      "Año": "2016"
-    },
-    "destacado": true,
-    "whatsappTexto": "Hola, quiero consultar por la Motoniveladora Caterpillar 120K."
-  },
-  {
-    "id": 3,
-    "nombre": "Retroexcavadora JCB 3CX",
-    "marca": "JCB",
-    "modelo": "3CX",
-    "tipo": "Retroexcavadora",
-    "anio": 2019,
-    "descripcion": "Versátil, confiable y lista para obras urbanas, zanjeo, carga y tareas generales en distintos terrenos.",
-    "imagenes": [],
-    "fichaTecnica": {
-      "Peso operativo": "8.135 kg",
-      "Potencia": "92 hp",
-      "Capacidad": "1 m³",
-      "Año": "2019"
-    },
-    "destacado": false,
-    "whatsappTexto": "Hola, quiero consultar por la Retroexcavadora JCB 3CX."
-  },
-  {
-    "id": 4,
-    "nombre": "Rodillo Compactador Hamm 3411",
-    "marca": "Hamm",
-    "modelo": "3411",
-    "tipo": "Rodillo",
-    "anio": 2017,
-    "descripcion": "Compactación eficiente para base, subbase y suelos granulares con excelente rendimiento en obra vial.",
-    "imagenes": [
-      "https://images.unsplash.com/photo-1599707254554-027aeb4deacd?auto=format&fit=crop&w=1200&q=80",
-      "https://images.unsplash.com/photo-1504307651254-35680f356dfd?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "fichaTecnica": {
-      "Peso operativo": "11.900 kg",
-      "Potencia": "136 hp",
-      "Capacidad": "Tambor liso 2,1 m",
-      "Año": "2017"
-    },
-    "destacado": false,
-    "whatsappTexto": "Hola, quiero consultar por el Rodillo Compactador Hamm 3411."
-  },
-  {
-    "id": 5,
-    "nombre": "Autoelevador Hyster H50FT",
-    "marca": "Hyster",
-    "modelo": "H50FT",
+    "id": 1,
+    "nombre": "Zolid Z-35 DUAL",
+    "logo":["../logos/logo-zolid.png"],
+    "marca": "Zolid",
+    "modelo": "Z35 DUAL",
     "tipo": "Autoelevador",
-    "anio": 2020,
-    "descripcion": "Solución ágil para logística, movimiento interno y manipulación de cargas en depósitos y frentes de trabajo.",
+    "motor": "Xinchai",
     "imagenes": [
-      "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=1200&q=80"
+      "ZOLID-Z35DUAL/01.png",
+      "ZOLID-Z35DUAL/02.png",
+      "ZOLID-Z35DUAL/03.png",
+      "ZOLID-Z35DUAL/04.png",
+      "ZOLID-Z35DUAL/05.png",
+      "ZOLID-Z35DUAL/06.png",
+      "ZOLID-Z35DUAL/07.png"
+
     ],
     "fichaTecnica": {
-      "Peso operativo": "4.420 kg",
-      "Potencia": "74 hp",
-      "Capacidad": "2.500 kg",
-      "Año": "2020"
-    },
-    "destacado": false,
-    "whatsappTexto": "Hola, quiero consultar por el Autoelevador Hyster H50FT."
-  },
-  {
-    "id": 6,
-    "nombre": "Topadora Komatsu D65EX",
-    "marca": "Komatsu",
-    "modelo": "D65EX",
-    "tipo": "Topadora",
-    "anio": 2015,
-    "descripcion": "Máquina pesada para empuje, desmonte y preparación de terreno, con estructura sólida para jornadas exigentes.",
-    "imagenes": [
-      "https://images.unsplash.com/photo-1509395176047-4a66953fd231?auto=format&fit=crop&w=1200&q=80"
-    ],
-    "fichaTecnica": {
-      "Peso operativo": "20.340 kg",
-      "Potencia": "205 hp",
-      "Capacidad": "Hoja de 5,6 m³",
-      "Año": "2015"
+      "Peso del Equipo": "5450 kg",
+      "Potencia": "60 hp",
+      "Capacidad de Carga": "3500 kg",
+      "Alt Max Elevacion": "4,3m",
+      "Desplazador": "Lateral",
+      "Neumaticos Delanteros": "14-17.5-14PR",
+      "Neumaticos Traseros": "10.0/75-15.3",
+      "Torre": "Triple",
+      "Largo uña Elevadora":"1070mm"
     },
     "destacado": true,
-    "whatsappTexto": "Hola, quiero consultar por la Topadora Komatsu D65EX."
+    "whatsappTexto": "Hola, quiero consultar por Autoelevador Z35 Dual."
   }
 ]

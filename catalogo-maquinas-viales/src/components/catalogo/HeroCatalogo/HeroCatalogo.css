@@ -2,14 +2,16 @@
   position: relative;
   padding: 72px 0 110px;
   overflow: hidden;
+  background-image: url(/catalogo-maquinas-viales/public/images/hero.png);
+  background-position: center;
 }
 
 .hero-catalogo__overlay {
   position: absolute;
   inset: 0;
   background:
-    linear-gradient(180deg, rgba(4, 5, 7, 0.4), rgba(11, 13, 16, 0.92)),
-    radial-gradient(circle at 85% 10%, rgba(243, 139, 31, 0.15), transparent 18%),
+    linear-gradient(180deg, rgba(4, 5, 7, 0.185), rgba(11, 13, 16, 0.92)),
+    radial-gradient(circle at 85% 10%, rgba(243, 141, 31, 0.079), transparent 18%),
     linear-gradient(120deg, rgba(255,255,255,0.02) 0%, transparent 40%);
 }
 

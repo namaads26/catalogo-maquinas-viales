@@ -6,10 +6,9 @@ function Footer() {
       <div className="footer__inner">
         <div>
           <p className="tag-pill">Catálogo web profesional</p>
-          <h3>Maquinaria vial lista para mostrar con nivel premium.</h3>
+          <h3>Tu proyecto empieza con la máquina correcta.</h3>
           <p>
-            Diseño industrial, navegación simple, fichas técnicas claras y salida
-            directa a WhatsApp para consultas comerciales.
+            Te ayudamos a encontrar el equipo ideal para cada necesidad, asegurando potencia, durabilidad y el mejor rendimiento en obra.
           </p>
         </div>
 

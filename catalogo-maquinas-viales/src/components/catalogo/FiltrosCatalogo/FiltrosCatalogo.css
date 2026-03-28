@@ -8,6 +8,10 @@
   gap: 10px;
 }
 
+option{
+  color: black;
+}
+
 .filtros-catalogo label {
   color: var(--text-soft);
   font-size: 0.95rem;

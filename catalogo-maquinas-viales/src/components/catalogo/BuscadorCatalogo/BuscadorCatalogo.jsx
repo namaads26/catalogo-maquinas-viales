@@ -7,7 +7,7 @@ function BuscadorCatalogo({ value, onChange }) {
       <input
         id="busqueda-maquinas"
         type="text"
-        placeholder="Ej. Hyundai 220LC-9"
+        placeholder="Ej. Zolid Z35 DUAL"
         value={value}
         onChange={(event) => onChange(event.target.value)}
       />
