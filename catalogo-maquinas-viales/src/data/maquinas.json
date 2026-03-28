@@ -8,7 +8,6 @@
     "modelo": "930D",
     "tipo": "Excavadora",
     "motor": "Yunnei 4100 Turbo",
-    "descripcion": "Equipo robusto para movimiento de suelo, excavación intensiva y trabajos viales de mediana y gran escala.",
     "imagenes": [
       "ZOLID-930D/zolid-930D.png",
       "ZOLID-930D/IMAGENES_Z930D-00.png",
@@ -24,7 +23,10 @@
       "Potencia": "88 hp",
       "Capacidad": "1 m³ - 1500kg",
       "Motor": "Yunnei 4100 Turbo",
-      "Sist. Transmision": "C/convetidor-4x4- Reductor en cuatro"
+      "Sist. Transmision": "C/convetidor-4x4- Reductor en cuatro",
+      "Neumaticos": "16/70-20",
+      "Sist. de Frenos": "Freno Disco x4",
+      "Equipamiento":"Acople hid- 3er Via hidr- Aire Acond- Cam marcha atras- Comando c/Joistyck- Corta Corriente"
     },
     "destacado": true,
     "whatsappTexto": "Hola, quiero consultar por la Excavadora Hyundai 220LC-9."
