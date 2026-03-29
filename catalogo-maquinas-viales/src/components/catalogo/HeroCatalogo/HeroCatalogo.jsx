@@ -5,7 +5,6 @@ function HeroCatalogo({ total }) {
     <section className="hero-catalogo" id="top">
       <div className="hero-catalogo__overlay" />
       <div className="hero-catalogo__inner">
-        <p className="tag-pill">Estilo industrial premium</p>
         <h1>Encontrá la máquina ideal para tu próximo proyecto</h1>
         <p>
           Equipos confiables para proyectos exigentes.

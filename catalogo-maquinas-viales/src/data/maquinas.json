@@ -15,8 +15,7 @@
       "ZOLID-930D/IMAGENES_Z930D-02.png",
       "ZOLID-930D/IMAGENES_Z930D-03.png",
       "ZOLID-930D/IMAGENES_Z930D-04.png",
-      "ZOLID-930D/IMAGENES_Z930D-05.png",
-      "ZOLID-930D/IMAGENES_Z930D-06.png"
+      "ZOLID-930D/IMAGENES_Z930D-05.png"
     ],
     "fichaTecnica": {
       "Peso operativo": "4762 kg",
@@ -31,8 +30,15 @@
     "destacado": true,
     "whatsappTexto": "Hola, quiero consultar por la Excavadora Z930D."
   },
+
+
+
+
+
+
+
   {
-    "id": 1,
+    "id":2,
     "nombre": "Zolid Z-35 DUAL",
     "logo":["../logos/logo-zolid.png"],
     "marca": "Zolid",
@@ -50,17 +56,130 @@
 
     ],
     "fichaTecnica": {
-      "Peso del Equipo": "5450 kg",
-      "Potencia": "60 hp",
+      "motor": "Xinchai",
+      "Potencia": "50 hp",
+      "Peso del Equipo": "4775 kg",
       "Capacidad de Carga": "3500 kg",
-      "Alt Max Elevacion": "4,3m",
-      "Desplazador": "Lateral",
-      "Neumaticos Delanteros": "14-17.5-14PR",
-      "Neumaticos Traseros": "10.0/75-15.3",
-      "Torre": "Triple",
-      "Largo uña Elevadora":"1070mm"
+      "Alt Max Elevacion": "4,5m",
+      "Dim. gen(larg x ancho x alt)": "2775x1225x2070",
+      "Largo uña Elevadora":"1070mm",
+      "Neumaticos Delanteros": "28x9-15-12PR",
+      "Neumaticos Traseros": "6.50-10-10PR"
     },
     "destacado": true,
     "whatsappTexto": "Hola, quiero consultar por Autoelevador Z35 Dual."
+  },
+
+
+
+
+
+
+
+  {
+    "id": 3,
+    "nombre": "Zolid Z-35 4x4",
+    "logo":["../logos/logo-zolid.png"],
+    "marca": "Zolid",
+    "modelo": "Z35 4x4",
+    "tipo": "Autoelevador",
+    "motor": "Xinchai",
+    "imagenes": [
+      "ZOLID-Z354x4/01.png",
+      "ZOLID-Z354x4/02.png",
+      "ZOLID-Z354x4/03.png",
+      "ZOLID-Z354x4/04.png",
+      "ZOLID-Z354x4/05.png",
+      "ZOLID-Z354x4/06.png"
+
+    ],
+    "fichaTecnica": {
+      "motor": "Xinchai",
+      "Potencia": "60 hp",
+      "Peso del Equipo": "5450 kg",
+      "Capacidad de Carga": "3500 kg",
+      "Alt Max Elevacion": "4,3m",
+      "Desplazador": "Lateral",
+      "Torre": "Triple",
+      "Largo uña Elevadora":"1070mm",
+      "Neumaticos Delanteros": "14-17.5-14PR",
+      "Neumaticos Traseros": "10.0/75-15.3"
+    },
+    "destacado": true,
+    "whatsappTexto": "Hola, quiero consultar por Autoelevador Z35 4x4."
+  },
+
+
+
+
+
+
+  {
+    "id": 4,
+    "nombre": "Zolid Z-35",
+    "logo":["../logos/logo-zolid.png"],
+    "marca": "Zolid",
+    "modelo": "Z35",
+    "tipo": "Autoelevador",
+    "motor": "Xinchai",
+    "imagenes": [
+      "ZOLID-Z35/01.png",
+      "ZOLID-Z35/02.png",
+      "ZOLID-Z35/03.png",
+      "ZOLID-Z35/04.png",
+      "ZOLID-Z35/05.png"
+
+    ],
+    "fichaTecnica": {
+      "motor": "Xinchai",
+      "Potencia": "50 hp",
+      "Peso del Equipo": "4775 kg",
+      "Capacidad de Carga": "3500 kg",
+      "Alt Max Elevacion": "4,5m",
+      "Dim. gen(larg x ancho x alt)": "2775x1225x2070",
+      "Largo uña Elevadora":"1070mm",
+      "Neumaticos Delanteros": "28x9-15-12PR",
+      "Neumaticos Traseros": "6.50-10-10PR"
+    },
+    "destacado": true,
+    "whatsappTexto": "Hola, quiero consultar por Autoelevador Z35."
+  },
+
+
+
+
+
+
+
+
+  {
+    "id": 5,
+    "nombre": "Zolid Z-25N (NAFTA/GAS)",
+    "logo":["../logos/logo-zolid.png"],
+    "marca": "Zolid",
+    "modelo": "Z25 c/GAS",
+    "tipo": "Autoelevador",
+    "motor": "Nissan",
+    "imagenes": [
+      "ZOLID-Z25NGAS/01.png",
+      "ZOLID-Z25NGAS/02.png",
+      "ZOLID-Z25NGAS/03.png",
+      "ZOLID-Z25NGAS/04.png",
+      "ZOLID-Z25NGAS/05.png"
+
+    ],
+    "fichaTecnica": {
+      "motor": "Nissan",
+      "Potencia": "59 hp",
+      "Peso del Equipo": "3605 kg",
+      "Capacidad de Carga": "2500 kg",
+      "Alt Max Elevacion": "4,5m",
+      "Dim. gen(larg x ancho x alt)": "2660x1150x2055",
+      "Largo uña Elevadora":"1070mm",
+      "Neumaticos Delanteros": "7.00-12-12PR",
+      "Neumaticos Traseros": "6.00-9-10PR"
+    },
+    "destacado": true,
+    "whatsappTexto": "Hola, quiero consultar por Autoelevador Z25N c/GAS."
   }
 ]
