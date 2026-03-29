@@ -181,5 +181,44 @@
     },
     "destacado": true,
     "whatsappTexto": "Hola, quiero consultar por Autoelevador Z25N c/GAS."
+  },
+
+
+
+
+
+
+
+
+  
+  {
+    "id": 6,
+    "nombre": "Zolid Z-25",
+    "logo":["../logos/logo-zolid.png"],
+    "marca": "Zolid",
+    "modelo": "Z25 ",
+    "tipo": "Autoelevador",
+    "motor": "Xinchai",
+    "imagenes": [
+      "ZOLID-Z25/01.png",
+      "ZOLID-Z25/02.png",
+      "ZOLID-Z25/03.png",
+      "ZOLID-Z25/04.png",
+      "ZOLID-Z25/05.png"
+
+    ],
+    "fichaTecnica": {
+      "motor": "Xinchai",
+      "Potencia": "50 hp",
+      "Peso del Equipo": "3605 kg",
+      "Capacidad de Carga": "2500 kg",
+      "Alt Max Elevacion": "4,5m",
+      "Dim. gen(larg x ancho x alt)": "2660x1150x2055",
+      "Largo uña Elevadora":"1070mm",
+      "Neumaticos Delanteros": "7.00-12-12PR",
+      "Neumaticos Traseros": "6.00-9-10PR"
+    },
+    "destacado": true,
+    "whatsappTexto": "Hola, quiero consultar por Autoelevador Z25."
   }
 ]
