@@ -3,6 +3,7 @@
   padding: 72px 0 110px;
   overflow: hidden;
   background-image: url(/catalogo-maquinas-viales/public/images/hero.png);
+  background-size: cover;
   background-position: center;
 }
 

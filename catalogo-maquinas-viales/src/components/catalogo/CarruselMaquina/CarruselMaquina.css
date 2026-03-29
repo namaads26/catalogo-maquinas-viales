@@ -5,7 +5,7 @@
 
 .carrusel-maquina__viewer {
   position: relative;
-  aspect-ratio: 16 / 10;
+  aspect-ratio: 12 / 10;
   overflow: hidden;
   border-radius: 22px;
   background: #0f1318;
@@ -16,8 +16,10 @@
 .carrusel-maquina__thumbs img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
+  
 }
+
 
 .carrusel-maquina__nav {
   position: absolute;
