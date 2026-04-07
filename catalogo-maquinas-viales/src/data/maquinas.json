@@ -1,7 +1,293 @@
-
 [
-  {
+{
     "id": 1,
+    "nombre": "XCMG - ZL 50 GN c/GARRA",
+    "logo":["../logos/XCMG-png.png"],
+    "marca": "XCMG",
+    "modelo": "ZL 50 GN ",
+    "tipo": "Pala Cargadora",
+    "motor": "Weichai - WD10G22",
+    "imagenes": [
+      "XCMG-ZL50GN-GARRA/01.png",
+      "XCMG-ZL50GN-GARRA/02.png",
+      "XCMG-ZL50GN-GARRA/03.png",
+      "XCMG-ZL50GN-GARRA/04.png",
+      "XCMG-ZL50GN-GARRA/05.png",
+      "XCMG-ZL50GN-GARRA/06.png"
+
+    ],
+    "fichaTecnica": {
+      "motor": "Weichai - WD10G22",
+      "Potencia": "220 hp",
+      "Capacidad del balde": "Con garra",
+      "Carga operativa": "5500 kg",
+      "Peso del Equipo": "17.500 kg",
+      "Dim. gen(larg x ancho x alt)": "8225 x 3016 x 3515 mm",
+      "Neumáticos": "23.5 - 25 - 16 PR"
+    },
+    "destacado": true,
+    "whatsappTexto": "Hola, quiero consultar por Pala Cargadora XCMG - ZL 50 GN c/ GARRA."
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": 2,
+    "nombre": "XCMG - ZL 50 GN",
+    "logo":["../logos/XCMG-png.png"],
+    "marca": "XCMG",
+    "modelo": "ZL 50 GN ",
+    "tipo": "Pala Cargadora",
+    "motor": "Weichai - WP6G125E201",
+    "imagenes": [
+      "XCMG-ZL50GN/01.png",
+      "XCMG-ZL50GN/02.png",
+      "XCMG-ZL50GN/03.png",
+      "XCMG-ZL50GN/04.png",
+      "XCMG-ZL50GN/05.png",
+      "XCMG-ZL50GN/06.png",
+      "XCMG-ZL50GN/07.png"
+
+    ],
+    "fichaTecnica": {
+      "motor": "Weichai - WD10G22",
+      "Potencia": "220 hp",
+      "Capacidad del balde": "3 m3",
+      "Carga operativa": "5500 kg",
+      "Peso del Equipo": "17.500 kg",
+      "Dim. gen(larg x ancho x alt)": "8225 x 3016 x 3515 mm",
+      "Neumáticos": "23.5 - 25 - 16 PR"
+    },
+    "destacado": true,
+    "whatsappTexto": "Hola, quiero consultar por Pala Cargadora XCMG - ZL 50 GN."
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+    "id": 3,
+    "nombre": "XCMG - LW 300 KN",
+    "logo":["../logos/XCMG-png.png"],
+    "marca": "XCMG",
+    "modelo": "LW 300 KN ",
+    "tipo": "Pala Cargadora",
+    "motor": "Weichai - WP6G125E201",
+    "imagenes": [
+      "XCMG-LW-300-KN/01.png",
+      "XCMG-LW-300-KN/02.png",
+      "XCMG-LW-300-KN/03.png",
+      "XCMG-LW-300-KN/04.png",
+      "XCMG-LW-300-KN/05.png"
+
+    ],
+    "fichaTecnica": {
+      "motor": "Weichai - WP6G125E201",
+      "Potencia": "125 hp",
+      "Capacidad del balde": "1.8 - 2m",
+      "Carga operativa": "3000 kg",
+      "Peso del Equipo": "10900 +/- 200 kg.",
+      "Dim. gen(larg x ancho x alt)": "7245 x 2482 x 3320 mm.",
+      "Neumáticos": "17.5 - 25 - 12 PR"
+    },
+    "destacado": true,
+    "whatsappTexto": "Hola, quiero consultar por Pala Cargadora XCMG - LW 300 KN."
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": 4,
+    "nombre": "XCMG - LW 300 KN c/ GARRA",
+    "logo":["../logos/XCMG-png.png"],
+    "marca": "XCMG",
+    "modelo": "LW 300 KN c/ GARRA",
+    "tipo": "Pala Cargadora",
+    "motor": "Weichai - WP6G125E201",
+    "imagenes": [
+      "XCMG-LW-300-KN-GARRA/01.png",
+      "XCMG-LW-300-KN-GARRA/02.png",
+      "XCMG-LW-30-KN-GARRA/03.png",
+      "XCMG-LW-300-KN-GARRA/04.png",
+      "XCMG-LW-300-KN-GARRA/05.png"
+
+    ],
+    "fichaTecnica": {
+      "motor": "Weichai - WP6G125E201",
+      "Potencia": "125 hp",
+      "Capacidad del balde": "Con garra",
+      "Carga operativa": "3000 kg",
+      "Peso del Equipo": "10900 +/- 200 kg.",
+      "Dim. gen(larg x ancho x alt)": "7245 x 2482 x 3320 mm.",
+      "Neumáticos": "17.5 - 25 - 12 PR"
+    },
+    "destacado": true,
+    "whatsappTexto": "Hola, quiero consultar por Pala Cargadora XCMG - LW 300 KN c/ GARRA."
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "id": 5,
+    "nombre": "XCMG - LW 186 FV",
+    "logo":["../logos/XCMG-png.png"],
+    "marca": "XCMG",
+    "modelo": "LW 186 FV",
+    "tipo": "Pala Cargadora",
+    "motor": "Yunnei",
+    "imagenes": [
+      "XCMG-LW186FV/01.png",
+      "XCMG-LW186FV/02.png",
+      "XCMG-LW186FV/03.png",
+      "XCMG-LW186FV/04.png",
+      "XCMG-LW186FV/05.png",
+      "XCMG-LW186FV/06.png"
+
+    ],
+    "fichaTecnica": {
+      "motor": "Yunnei",
+      "Potencia": "100 hp",
+      "Capacidad del balde": "1 m3",
+      "Carga operativa": "1400 kg",
+      "Peso del Equipo": "5200 kg.",
+      "Dim. gen(larg x ancho x alt)": "6150x2060x3010 mm.",
+      "Neumáticos": "16/70-20"
+    },
+    "destacado": true,
+    "whatsappTexto": "Hola, quiero consultar por Pala Cargadora XCMG - LW 186 FV."
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": 6,
+    "nombre": "XCMG - LW 230 M",
+    "logo":["../logos/XCMG-png.png"],
+    "marca": "XCMG",
+    "modelo": "LW 230 M",
+    "tipo": "Pala Cargadora",
+    "motor": "Yunnei",
+    "imagenes": [
+      "XCMG-LW230M/01.png",
+      "XCMG-LW230M/02.png",
+      "XCMG-LW230M/03.png",
+      "XCMG-LW230M/04.png",
+      "XCMG-LW230M/05.png"
+
+    ],
+    "fichaTecnica": {
+      "motor": "Yunnei",
+      "Potencia": "100 hp",
+      "Capacidad del balde": "1.5 m3",
+      "Carga operativa": "2000 kg",
+      "Peso del Equipo": "6600 kg.",
+      "Dim. gen(larg x ancho x alt)": "6650x2180x2900 mm.",
+      "Neumáticos": "16/70-24"
+    },
+    "destacado": true,
+    "whatsappTexto": "Hola, quiero consultar por Pala Cargadora XCMG - LW 230 M."
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  {
+    "id": 3,
     "nombre": "Zolid 930D",
     "logo":["../logos/logo-zolid.png"],
     "marca": "Zolid",
@@ -38,7 +324,7 @@
 
 
   {
-    "id":2,
+    "id":4,
     "nombre": "Zolid Z-35 DUAL",
     "logo":["../logos/logo-zolid.png"],
     "marca": "Zolid",
@@ -77,7 +363,7 @@
 
 
   {
-    "id": 3,
+    "id": 5,
     "nombre": "Zolid Z-35 4x4",
     "logo":["../logos/logo-zolid.png"],
     "marca": "Zolid",
@@ -115,7 +401,7 @@
 
 
   {
-    "id": 4,
+    "id": 6,
     "nombre": "Zolid Z-35",
     "logo":["../logos/logo-zolid.png"],
     "marca": "Zolid",
@@ -153,7 +439,7 @@
 
 
   {
-    "id": 5,
+    "id": 7,
     "nombre": "Zolid Z-25N (NAFTA/GAS)",
     "logo":["../logos/logo-zolid.png"],
     "marca": "Zolid",
@@ -192,7 +478,7 @@
 
   
   {
-    "id": 6,
+    "id": 8,
     "nombre": "Zolid Z-25",
     "logo":["../logos/logo-zolid.png"],
     "marca": "Zolid",
@@ -221,4 +507,21 @@
     "destacado": true,
     "whatsappTexto": "Hola, quiero consultar por Autoelevador Z25."
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ]

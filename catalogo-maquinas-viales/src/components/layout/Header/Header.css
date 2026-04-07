@@ -24,15 +24,10 @@
 }
 
 .header__brandMark {
-  width: 46px;
-  height: 46px;
-  border-radius: 14px;
-  display: grid;
-  place-items: center;
-  color: #111;
-  font-weight: 800;
-  background: linear-gradient(135deg, #ffb66c 0%, var(--accent) 100%);
-  box-shadow: 0 10px 24px rgba(243, 139, 31, 0.25);
+  width: 27dvw;
+  height: 10dvh;
+  padding: 0;
+ 
 }
 
 .header__brand strong,
@@ -64,4 +59,12 @@
   .header__nav {
     display: flex;
   }
+
+.header__brandMark {
+  width: 15dvw;
+  height: 10dvh;
+ 
+ 
+}
+
 }

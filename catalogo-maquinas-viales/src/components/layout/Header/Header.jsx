@@ -4,12 +4,8 @@ function Header() {
   return (
     <header className="header">
       <div className="header__inner">
-        <a href="#top" className="header__brand">
-          <span className="header__brandMark">MV</span>
-          <div>
-            <strong>Catálogo Vial</strong>
-            <span>Equipos seleccionados</span>
-          </div>
+        <a href="#top" >
+          <img src={`${import.meta.env.BASE_URL}logos/logo.png`} className="header__brandMark"  alt="Maquinas Viales Logo" />
         </a>
 
         <nav className="header__nav">
@@ -22,3 +18,4 @@ function Header() {
 }
 
 export default Header;
+

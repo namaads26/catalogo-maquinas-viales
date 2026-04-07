@@ -8,6 +8,7 @@ import GridMaquinas from './components/catalogo/GridMaquinas/GridMaquinas';
 import ModalMaquina from './components/catalogo/ModalMaquina/ModalMaquina';
 import maquinas from './data/maquinas.json';
 import { filtrarMaquinas, obtenerOpcionesFiltro } from './utils/filtrarMaquinas';
+import WhatsappFloat from './components/ui/WhatsappFloat/WhatsappFloat';
 
 function App() {
   const [busqueda, setBusqueda] = useState('');
@@ -47,6 +48,7 @@ function App() {
             onOpenDetail={setMaquinaActiva}
           />
         </section>
+        <WhatsappFloat/>
       </main>
 
       <Footer />

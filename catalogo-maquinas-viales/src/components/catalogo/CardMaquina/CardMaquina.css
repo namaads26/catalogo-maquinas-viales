@@ -20,7 +20,7 @@
   z-index: 5;
 
   /* estilo PRO */
-  opacity: 0.15;
+  opacity: 0.9;
   filter: grayscale(100%) contrast(1.2);
   pointer-events: none;
 }
